@@ -90,7 +90,34 @@ Download From Microsoft Store: [https://www.microsoft.com/store/productId/9P6175
 * **Masters of Computer Applications (MCA)** – UKA TARSADIA University - 8.73 CGPA
 ---
 
-<img src="https://github.com/nilenpatel/logo/blob/main/Apple_logo_black.svg.png" width="24">&nbsp;&nbsp;&nbsp;<img src="https://github.com/nilenpatel/logo/blob/main/Google_2015_logo.svg.png" width="58">&nbsp;&nbsp;&nbsp;<img src="https://github.com/nilenpatel/logo/blob/main/Microsoft_logo_(2012).svg.png" width="108">&nbsp;&nbsp;&nbsp;<img src="https://github.com/nilenpatel/logo/blob/main/Oracle_logo.svg.png" width="148">&nbsp;&nbsp;&nbsp;<img src="https://github.com/nilenpatel/logo/blob/main/IBM_Logo_1967-1972.svg.png" width="48">&nbsp;&nbsp;&nbsp; <img src="https://github.com/nilenpatel/logo/blob/main/HP_logo_630x630.png" width="25">&nbsp;&nbsp;&nbsp; <img src="https://github.com/nilenpatel/logo/blob/main/Logo-nvidia-transparent-PNG.png" width="108">&nbsp;&nbsp;&nbsp; <img src="https://github.com/nilenpatel/logo/blob/main/columbiapluslogo_3_30_2.png" width="138">&nbsp;&nbsp;&nbsp;  <img src="https://github.com/nilenpatel/logo/blob/main/Logo-redis.svg.png" width="58">&nbsp;&nbsp;&nbsp;  <img src="https://github.com/nilenpatel/logo/blob/main/Databricks_Logo.png" width="38">&nbsp;&nbsp;&nbsp;<img src="https://github.com/nilenpatel/logo/blob/main/snapchat-logo-png-transparent.png" width="24"> <br>&nbsp;&nbsp;&nbsp; <br><img src="https://github.com/nilenpatel/logo/blob/main/Reddit_wordmark.svg.png" width="68">&nbsp;&nbsp;&nbsp;  <img src="https://github.com/nilenpatel/logo/blob/main/PXA-Logo-Link.png" width="68">&nbsp;&nbsp;&nbsp;  <img src="https://github.com/nilenpatel/logo/blob/main/Coursera_logo_(2020).svg.png" width="98">&nbsp;&nbsp;&nbsp;  <img src="https://github.com/nilenpatel/logo/blob/main/upgradlogo.png" width="68">&nbsp;&nbsp;&nbsp;  
+<div align="center">
+
+<table>
+  <tr align="center">
+    <td><img align = "center" src="https://github.com/nilenpatel/logo/blob/main/Apple_logo_black.svg.png" width="40"></td>
+    <td><img src="https://github.com/nilenpatel/logo/blob/main/Google_2015_logo.svg.png" width="90"></td>
+    <td><img src="https://github.com/nilenpatel/logo/blob/main/Microsoft_logo_(2012).svg.png" width="140"></td>
+    <td><img src="https://github.com/nilenpatel/logo/blob/main/Oracle_logo.svg.png" width="170"></td>
+    <td><img src="https://github.com/nilenpatel/logo/blob/main/IBM_Logo_1967-1972.svg.png" width="70"></td>
+    <td><img src="https://github.com/nilenpatel/logo/blob/main/HP_logo_630x630.png" width="45"></td>
+    <td><img src="https://github.com/nilenpatel/logo/blob/main/Logo-nvidia-transparent-PNG.png" width="130"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/nilenpatel/logo/blob/main/columbiapluslogo_3_30_2.png" width="160"></td>
+    <td><img src="https://github.com/nilenpatel/logo/blob/main/Logo-redis.svg.png" width="70"></td>
+    <td><img src="https://github.com/nilenpatel/logo/blob/main/Databricks_Logo.png" width="60"></td>
+    <td><img src="https://github.com/nilenpatel/logo/blob/main/snapchat-logo-png-transparent.png" width="40"></td>
+    <td><img src="https://github.com/nilenpatel/logo/blob/main/Reddit_wordmark.svg.png" width="90"></td>
+    <td><img src="https://github.com/nilenpatel/logo/blob/main/PXA-Logo-Link.png" width="80"></td>
+    <td><img src="https://github.com/nilenpatel/logo/blob/main/Coursera_logo_(2020).svg.png" width="120"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/nilenpatel/logo/blob/main/upgradlogo.png" width="90"></td>
+  </tr>
+</table>
+
+</div>
+ 
 
 * Apple Ads Certification for ads on the App Store from Apple. <a href="https://nilenpatelinc.com/wp-content/uploads/2025/10/Nilen-Patel-Apple-Apple-Ads-Certification-for-ads-on-the-App-Store.pdf"> View </a>
 * Prompt Design in Vertex AI from Google. <a href="https://nilenpatelinc.com/wp-content/uploads/2025/10/Nilen-Patel-Google-Prompt-Design-in-Vertex-AI.pdf"> View </a>
