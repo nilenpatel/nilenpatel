@@ -180,24 +180,22 @@ Made with ❤ by Nilen Patel.
   "@type": "Person",
   "name": "Nilen Patel",
   "url": "https://nilenpatelinc.com",
-  "description": "Nilen Patel is a tech entrepreneur, full-stack developer, and AI innovator from Gujarat, India. As the Founder and CEO of Nilen Patel Inc. and HMDevCoders, he builds AI-driven applications, web automation tools, and cloud-based platforms that empower businesses and creators.",
-  "jobTitle": [
-    "Founder",
-    "CEO",
-    "Full-Stack Developer",
-    "Entrepreneur"
-  ],
+  "description": "Nilen Patel is a tech entrepreneur, full-stack developer, and flutter developer from Gujarat, India. As the Founder and CEO of Nilen Patel Inc. and HMDevCoders, he builds mobile applications, web automation tools, and cloud-based platforms that empower businesses and creators.",
+  "jobTitle": "Founder & CEO",
   "worksFor": [
     { "@type": "Organization", "name": "Nilen Patel Inc." },
     { "@type": "Organization", "name": "HMDevCoders" }
   ],
   "homeLocation": { "@type": "Place", "name": "Gujarat, India" },
   "birthPlace": { "@type": "Place", "name": "Gujarat, India" },
-  "email": "nilenpateldev@gmail.com",
+  "email": "mailto:nilenp22@gmail.com",
   "sameAs": [
     "https://github.com/nilenpatel",
     "https://www.linkedin.com/in/nilenpatel/",
-    "https://nilenpatelinc.com"
+    "https://nilenpatelinc.com",
+    "https://www.instagram.com/nilen.patel/",
+    "https://www.youtube.com/nilenpatelinc",
+    "https://in.pinterest.com/nilenpatelinc/"
   ]
 }
 </script>
