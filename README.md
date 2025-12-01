@@ -113,6 +113,7 @@ Download From Microsoft Store: [https://www.microsoft.com/store/productId/9P6175
   </tr>
   <tr>
     <td><img src="https://github.com/nilenpatel/logo/blob/main/upgradlogo.png" width="90"></td>
+    <td><img src="https://github.com/nilenpatel/logo/blob/main/Harness.png" width="90"></td>
   </tr>
 </table>
 
@@ -129,6 +130,7 @@ Download From Microsoft Store: [https://www.microsoft.com/store/productId/9P6175
 * AI Foundations Associate certification from Oracle. <a href="https://nilenpatelinc.com/wp-content/uploads/2025/10/Nilen-Patel-Oracle-AI-Foundations-Associate.pdf"> View </a>
 * Introduction to Artificial Intelligence certification from IBM. <a href="https://nilenpatelinc.com/wp-content/uploads/2025/10/Nilen-Patel-IBM-Introduction-to-Artificial-Intelligence.pdf"> View </a>
 * AI for Business Professionals certification from HP. <a href="https://nilenpatelinc.com/wp-content/uploads/2025/10/Nilen-Patel-HP-AI-for-Business-Professionals.pdf"> View </a>
+* Data Science & Analytics certification from HP. <a href="https://nilenpatelinc.com/wp-content/uploads/2025/12/Nilen-Patel-HP-Data-Science-Analytics-.pdf"> View </a>
 * Disaster Risk Monitoring Using Satellite Imagery certification from NVIDIA. <a href="https://nilenpatelinc.com/wp-content/uploads/2025/10/Nilen-Patel-Nvidia-Disaster-Risk-Monitoring-Using.pdf"> View </a>
 * Machine Learning I certification from Columbia +. <a href="https://nilenpatelinc.com/wp-content/uploads/2025/10/Nilen-Patel-Columbia-Machine-Learning-1.pdf"> View </a>
 * Get started with Redis certification from Redis. <a href="https://nilenpatelinc.com/wp-content/uploads/2025/10/Nilen-Patel-Redis-Get-started-with-Redis.pdf"> View </a>
@@ -142,7 +144,7 @@ Download From Microsoft Store: [https://www.microsoft.com/store/productId/9P6175
 * Industry Associate certification from PXA. <a href="https://nilenpatelinc.com/wp-content/uploads/2025/10/Nilen-Patel-PXA-Partnerships-Experience-Academy.pdf"> View </a>
 * Transfer Learning for NLP with TensorFlow Hub certification from Coursera. <a href="https://nilenpatelinc.com/wp-content/uploads/2025/10/Nilen-Patel-Coursera-Transfer-Learning-for-NLP-with-TensorFlow-Hub.pdf"> View </a>
 * Startupindia Learning program certification from upGrad. <a href="https://nilenpatelinc.com/wp-content/uploads/2025/10/Nilen-Patel-UpGrad-startupindia-Learning-program.pdf"> View </a>
-
+* Harness Certified Continuous Integration Developer. <a href="https://nilenpatelinc.com/wp-content/uploads/2025/12/Nilen-Patel-Harness-University.pdf"> View </a>
 
 ---
 
