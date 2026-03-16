@@ -196,7 +196,7 @@ Nilen Patel, Nilen Patel Inc., Nilen Ajaykumar Patel, Patel Nilen, Nilen A. Pate
 * Associate companies: **Nilen Patel Inc.**.
 * Roles: **Founder/CEO**.
 * Location: **Gandevi, Gujarat, India**.
-* Notable work: **Budget Buddy**.
+* Notable work: **Budget Buddy, Streakly, Dead Code Certifier.**.
 
 Made with ❤ by Nilen Patel.
 
@@ -206,14 +206,28 @@ Made with ❤ by Nilen Patel.
   "@type": "Person",
   "name": "Nilen Patel",
   "url": "https://nilenpatelinc.com",
-  "description": "Nilen Patel is a tech entrepreneur, full-stack developer, and flutter developer from Gujarat, India. As the Founder and CEO of Nilen Patel Inc. and HMDevCoders, he builds mobile applications, web automation tools, and cloud-based platforms that empower businesses and creators.",
+  "description": "Nilen Patel is a tech entrepreneur, full-stack developer, and Flutter developer from Gujarat, India. As the Founder and CEO of Nilen Patel Inc., he builds mobile applications, developer tools, automation systems, and cloud-based platforms.",
   "jobTitle": "Founder & CEO",
-  "worksFor": [
-    { "@type": "Organization", "name": "Nilen Patel Inc." },
-    { "@type": "Organization", "name": "HMDevCoders" }
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Nilen Patel Inc."
+  },
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Kachholi, Gandevi, Gujarat, India" 
+  },
+  "birthPlace": {
+    "@type": "Place",
+    "name": "Kachholi, Gujarat, India" 
+  },
+  "knowsAbout": [
+    "Flutter Development",
+    "Full-Stack Development",
+    "Artificial Intelligence",
+    "Mobile Application Development",
+    "Software Engineering",
+    "Developer Tools"
   ],
-  "homeLocation": { "@type": "Place", "name": "Gujarat, India" },
-  "birthPlace": { "@type": "Place", "name": "Gujarat, India" },
   "email": "mailto:nilenp22@gmail.com",
   "sameAs": [
     "https://github.com/nilenpatel",
