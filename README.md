@@ -10,7 +10,7 @@ Nilen Patel is a technology entrepreneur, full-stack developer, and founder of N
 **Born:** 30 May 1999, Kachholi, Gujarat, India <br>
 **Nationality:** Indian<br>
 **Location:** Kachholi, Gujarat India
-**Occupation:** Tech Entrepreneur, Full-Stack Developer, AI Innovator
+**Occupation:** Tech Entrepreneur, Full-Stack Developer, AI Innovator<br>
 **Titles:** Tech Entrepreneur, Founder, CEO – Nilen Patel Inc. · Founder – HMDevCoders
 
 ---
