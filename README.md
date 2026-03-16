@@ -1,12 +1,16 @@
 # Nilen Patel
 
 **Tech Entrepreneur | Flutter Developer**  
-Nilen Patel is a dynamic tech entrepreneur, full-stack developer, and founder of **Nilen Patel Inc.**, a Gujarat-based innovation company driving digital transformation, AI automation, and web solutions for businesses worldwide. Known for his dedication to innovation and technology, Nilen has built a reputation for engineering practical, futuristic systems that merge creativity and code.
+Nilen Patel is a technology entrepreneur, full-stack developer, and founder of Nilen Patel Inc., a Gujarat-based innovation company focused on digital transformation, AI automation, and scalable web platforms. His work spans full-stack software systems, AI-driven automation tools, cross-platform mobile development using Flutter, and cloud-based architectures designed for modern businesses.
 
 ---
 **Also known as:** Nilen Patel  
 **Pronouns:** He/Him  
 **Location:** Gujarat, India  
+**Born:** 30 May 1999, Kachholi, Gujarat, India
+**Nationality:** Indian
+**Location:** Kachholi, Gujarat India
+**Occupation:** Tech Entrepreneur, Full-Stack Developer, AI Innovator
 **Titles:** Tech Entrepreneur, Founder, CEO – Nilen Patel Inc. · Founder – HMDevCoders
 
 ---
@@ -68,12 +72,16 @@ A collaborative community and tech brand led by Nilen Patel, HMDevCoders focuses
 
 ---
 
-## Featured Projects
+## Apps on Google Play
 
 * **Budget Buddy** – Budget Buddy is a complete offline expense tracking app designed to help you manage your finances easily, privately, and beautifully. It offers a clean, Apple-inspired interface with smooth animations, detailed charts, and intuitive navigation. You can add, edit, or delete transactions and categories, view income and expense summaries, and analyze your spending patterns across weekly, monthly, and yearly reports. The app supports exporting and importing data in JSON or CSV format, ensuring your financial information stays safe and portable without requiring internet access or an account. Built with Flutter and powered by the Hive local database, Budget Buddy delivers fast performance, total data privacy, and an elegant user experience suitable for anyone who wants a simple, secure, and effective way to track their money.
 
 Download From Play Store: [https://play.google.com/store/apps/details?id=com.nilenpatelinc.budgetbuddy]<br>
 Download From Microsoft Store: [https://www.microsoft.com/store/productId/9P61752BM82G?ocid=libraryshare]
+
+* **Streakly** – Streakly is a fully offline habit tracker designed to help users build consistency through clear routines and streak tracking without relying on internet connectivity or accounts. The application operates entirely on-device, meaning there is no data sync, cloud storage, login requirement, or external tracking. Users can create and manage habits with flexible scheduling, including daily, weekly, or custom-day routines, and they can edit, pause, or resume habits at any time. Streakly automatically tracks current streaks, best streaks, and missed days using local logic, allowing users to clearly see their progress and maintain motivation. The app also supports configurable local reminders through on-device notifications for each habit. Progress can be analyzed through simple weekly and monthly completion charts generated from locally stored data, while the habit history feature allows users to review past check-ins and overall habit performance over time. Designed with a clean Material 3 interface and support for both light and dark themes, Streakly focuses on clarity, speed, and reliability. The application follows a strict privacy-first approach with no ads, no analytics, and no personal data collection, making it a simple, private, and dependable tool for building habits and maintaining streaks entirely offline.
+
+Download From Play Store: [https://play.google.com/store/apps/details?id=com.nilenpatelinc.habittracker&hl=en]<br>
 
 ---
 
