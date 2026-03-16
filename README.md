@@ -85,6 +85,22 @@ Download From Play Store: [https://play.google.com/store/apps/details?id=com.nil
 
 ---
 
+## Published VS Code Extension
+
+* Dead Code Certifier is a Visual Studio Code extension that detects dead and unreachable code in TypeScript and JavaScript projects using control-flow analysis and cross-file reference analysis powered by the TypeScript Compiler API. It identifies unused exports, functions, variables, classes, types, and imports across a workspace while detecting unreachable code after terminators such as return, throw, break, or continue. Each finding is assigned a confidence score (0–100) with explanations to distinguish definite dead code from possible false positives, considering factors like decorators, dynamic access, entry points, and framework patterns. Results are displayed through inline diagnostics in the editor and a sidebar panel grouped by file with confidence indicators, allowing developers to quickly locate and safely remove unused code.
+
+Download From Visual Studio Market Place: [https://marketplace.visualstudio.com/items?itemName=NilenPatel.dead-code-certifier]<br>
+
+---
+
+## Published Chrome Extension
+
+* Dead Tab Detector is a browser extension that manages tab lifecycles using behavior-based analysis to detect inactive tabs, predict potential reopens, and automatically archive unused pages instead of closing them permanently. The extension monitors tab activity and last-access time to identify pages that remain unused for extended periods, then moves them into a searchable archive while keeping them fully recoverable at any time. By organizing inactive tabs automatically, it reduces browser clutter, lowers memory usage, and improves overall performance without interrupting active browsing sessions. It also provides visibility into tab memory usage to help identify resource-heavy pages. All tab activity analysis is performed locally within the browser, ensuring that browsing data remains private and is never transmitted or stored on external servers.
+
+Download From Chrome Web Store: [https://chromewebstore.google.com/detail/dead-tab-detector/fedbiagjkdneokcdgcedfdopkamhgneg]<br>
+
+---
+
 ## Experience
 
 * **Founder & CEO – Nilen Patel Inc.** (2023–2024)
