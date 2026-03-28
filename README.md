@@ -101,6 +101,14 @@ Download From Chrome Web Store: [https://chromewebstore.google.com/detail/dead-t
 
 ---
 
+## Published Python Package
+
+* CodeChron is a developer tool that automatically tracks coding activity by observing file changes, timestamps, and code diffs to generate structured daily work logs without manual input. It analyzes development behavior in real time, groups activity into meaningful sessions based on inactivity patterns, and produces clean summaries that reflect actual work done rather than just commits or time spent. By combining change tracking with temporal context, it provides a clear, reliable record of development progress, making it useful for reporting, billing, and self-analysis. The system runs silently in the background with minimal resource usage and operates entirely locally, ensuring that all project data remains private and is never transmitted externally.
+
+Download From PyPI: [https://pypi.org/project/codechron/1.0.0/]
+
+---
+
 ## Experience
 
 * **Founder & CEO – Nilen Patel Inc.** (2023–2024)
