@@ -74,6 +74,10 @@ A collaborative community and tech brand led by Nilen Patel, HMDevCoders focuses
 
 ## Apps on Google Play
 
+* **Omega Prime Learn** - Omega Prime Learn is a way to learn English, Gujarati and Hindi for children or first time learners. This application contains various topics such as English alphabet, Gujarati alphabet,Hindi alphabet, numbers, Gujarati months, English months, Days of week and shows different seasons, conversions, relatives, domestic animals, wild animals, birds, aquatic animals, insects, flowers, fruits, vegetables, vehicles, musical instruments, shapes, colors, planets and directions. You can draw alphabets and numbers on your screen.
+
+Download From Play Store: [https://play.google.com/store/apps/details?id=com.nilenpatel.omegaprimelearn&hl=en_IN]
+
 * **Budget Buddy** – Budget Buddy is a complete offline expense tracking app designed to help you manage your finances easily, privately, and beautifully. It offers a clean, Apple-inspired interface with smooth animations, detailed charts, and intuitive navigation. You can add, edit, or delete transactions and categories, view income and expense summaries, and analyze your spending patterns across weekly, monthly, and yearly reports. The app supports exporting and importing data in JSON or CSV format, ensuring your financial information stays safe and portable without requiring internet access or an account. Built with Flutter and powered by the Hive local database, Budget Buddy delivers fast performance, total data privacy, and an elegant user experience suitable for anyone who wants a simple, secure, and effective way to track their money.
 
 Download From Play Store: [https://play.google.com/store/apps/details?id=com.nilenpatelinc.budgetbuddy]<br>
